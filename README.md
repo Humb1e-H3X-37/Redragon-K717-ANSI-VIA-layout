@@ -10,6 +10,18 @@ Custom JSON layout for the Redragon K717 60-key keyboard, intended for use with 
 - Documented function-layer mappings
 - JSON file ready to import into VIA
 
+
+![Logo aplikacji](images/layout-ansi-proposal%20(L0).png)
+
+![Logo aplikacji](images/layout-ansi-proposal%20(L1).png
+
+![Logo aplikacji](images/layout-ansi-proposal%20(L2).png
+
+![Logo aplikacji](images/layout-ansi-proposal%20(L3).png
+
+![Logo aplikacji](images/layout-ansi-proposal%20(L4).png
+
+
 ## Installation
 
 1. Download the JSON file from this repository.
