@@ -1,4 +1,4 @@
-# Redragon K717 VIA Layout — ANSI Pozdro
+# Redragon K717WB ANSI VIA Layout
 
 Custom VIA keyboard layout for the Redragon K717 (60/61-key ANSI layout).
 
